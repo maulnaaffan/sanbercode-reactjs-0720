@@ -2,5 +2,5 @@ Data Peserta Sanbercode Bootcamp ReactJS
 1. Nama: Maulana Affan
 2. Email: maulanaaffan99@gmail.com
 3. Sistem Operasi yang digunakan: Windows
-4. Akun Gitlab: maulnaaffan
+4. Akun Github: maulnaaffan
 5. Akun Telegram: Affan
