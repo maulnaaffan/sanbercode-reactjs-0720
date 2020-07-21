@@ -1,0 +1,61 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background: url("../img/pattern.jpg");
+}
+h1{
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    padding-bottom: 30px;
+    border-bottom: 2pt solid rgba(177, 170, 174, 0.85);
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    text-align: center;
+    display: inline;
+    margin-left: 15px;
+    color: blue;
+}
+
+header {
+    z-index: 0;
+    top: 0;
+    background-color: white;
+    position: sticky;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.kotak {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	border-radius: 5px;
+	background-color: white;
+	padding-left: 40px;
+	padding-right: 40px;
+	margin-right: 300px;
+	margin-left: 300px;
+}
+
+footer {
+    background-color: black;
+      font-weight: bold;
+      color: white;
+      text-align: center;
+      padding: 10px;
+      font-size: 15pt;
+    margin-top: 20px;
+}
+
+#logo{
+    position: sticky;
+}
