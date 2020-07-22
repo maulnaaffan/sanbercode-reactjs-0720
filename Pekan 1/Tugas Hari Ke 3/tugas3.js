@@ -3,7 +3,10 @@ var kataPertama = "saya";
 var kataKedua = "senang";
 var kataKetiga = "belajar";
 var kataKeempat = "javascript";
-console.log(kataPertama.concat(" ",kataKedua).concat(" ",kataKetiga).concat(" ",kataKeempat))
+var upper = kataKeempat.toUpperCase();
+var upper1 = kataKedua.charAt(0).toUpperCase()+ 
+kataKedua.slice(1);
+console.log(kataPertama.concat(" ",upper1).concat(" ",kataKetiga).concat(" ",upper))
 
 // soal nomor 2
 var kataPertama = Number("1");
